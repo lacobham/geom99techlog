@@ -1,4 +1,4 @@
-**Laura Cobham GEOM99 Technical Log** (For start/end times, time spent, resources and next steps, see the Excel time log. This file is the outcomes)
+#Laura Cobham GEOM99 Technical Log (For start/end times, time spent, resources and next steps, see the Excel time log. This file is the outcomes)
 
 **ArcGIS Server on GCP**
 
