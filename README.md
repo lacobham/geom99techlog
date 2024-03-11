@@ -5,21 +5,14 @@
 
 2024/03/06
 
-During this session I watched and recreated Shawn's video from this link: https://youtu.be/dyFeyBX9jIY, creating my own GCP server
-
-First go to the Google CLoud website at: console.cloud.google.com and naviagte to Compute Engine - VM instances from the top left.
-
-Create Instance, name it (eg arcgisserver), and go to the 'Boot disk' section. Click 'Change' and change the 'source project for image' in 'custom images' to the current project, click select.
-
-Allow 'HTTP traffic' and 'HTTPS traffic' and choose 'create'.
-
-Go to 'set up firewall rules' and name the rule (eg flemingrdp444).
-
-Change target to 'all instances in the network'.
-
-Enter 0.0.0.0/0 in the 'source IPv4 ranges' section. Add ports 444 and 6443 to the ports section under 'TCP' (444 makes it work at Fleming).
-
-Set a new Windows password by clicking the dropdown arrow next to 'RDP', making the username 'student'. The password will auto-generate (x}9Yo[ifHyX;E1l).
+1.During this session I watched and recreated Shawn's video from this link: https://youtu.be/dyFeyBX9jIY, creating my own GCP server
+1.First go to the Google CLoud website at: console.cloud.google.com and naviagte to Compute Engine - VM instances from the top left.
+1.Create Instance, name it (eg arcgisserver), and go to the 'Boot disk' section. Click 'Change' and change the 'source project for image' in 'custom images' to the current project, click select.
+1.Allow 'HTTP traffic' and 'HTTPS traffic' and choose 'create'.
+1.Go to 'set up firewall rules' and name the rule (eg flemingrdp444).
+1.Change target to 'all instances in the network'.
+1.Enter 0.0.0.0/0 in the 'source IPv4 ranges' section. Add ports 444 and 6443 to the ports section under 'TCP' (444 makes it work at Fleming).
+1.Set a new Windows password by clicking the dropdown arrow next to 'RDP', making the username 'student'. The password will auto-generate (x}9Yo[ifHyX;E1l).
 
 Search 'mstc' in your computer's search bar and enter the IP address from the 'External IP' section of the GCP with ':444' on the end.
 
