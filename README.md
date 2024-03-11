@@ -1,6 +1,7 @@
-# Laura Cobham GEOM99 Technical Log (For start/end times, time spent, resources and next steps, see the Excel time log. This file is the outcomes)
+# Laura Cobham GEOM99 Technical Log 
+(For start/end times, time spent, resources and next steps, see the Excel time log. This file is the outcomes)
 
-**ArcGIS Server on GCP**
+## ArcGIS Server on GCP
 
 2024/03/06
 
@@ -32,7 +33,7 @@ To go to the manager site type in: https://IPADDRESS:6443/arcgis/manager/, repla
 
 Log in with siteadmin and the password from the checklist Week 7/8 GEOM99 checklist.
 
-**Using AGOL and ArcGIS Server on GCP together**
+## Using AGOL and ArcGIS Server on GCP together
 
 2024/03/10
 
@@ -60,7 +61,7 @@ After recreating those steps:
 
 -To add items from the Server as a map image layer (ie a picture of the data) choose URL and add: https://*IPADDRESS/arcgis/rest/services/SampleWorldCities/MapServer (*insert new IP that is generated each time GCP is turned on)
 
-**Publish Canada service to your own GCP VM**
+## Publish Canada service to your own GCP VM
 
 To publish the Canada map onto the server from the VM, I first copied the data from the zip folder on the desktop to the gisworkspace folder on the C drive.
 
