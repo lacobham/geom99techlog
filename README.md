@@ -13,18 +13,13 @@
 1. Change target to 'all instances in the network'.
 1. Enter 0.0.0.0/0 in the 'source IPv4 ranges' section. Add ports 444 and 6443 to the ports section under 'TCP' (444 makes it work at Fleming).
 1. Set a new Windows password by clicking the dropdown arrow next to 'RDP', making the username 'student'. The password will auto-generate (x}9Yo[ifHyX;E1l).
-
-Search 'mstc' in your computer's search bar and enter the IP address from the 'External IP' section of the GCP with ':444' on the end.
-
-For credentials, click more choices if the user is already filled and enter student as the username and 'x}9Yo[ifHyX;E1l' as the password.
-
-A certificate warning will come up, choose yes.
-
+1. Search 'mstc' in your computer's search bar and enter the IP address from the 'External IP' section of the GCP with ':444' on the end.
+1. For credentials, click more choices if the user is already filled and enter student as the username and 'x}9Yo[ifHyX;E1l' as the password.
+1. A certificate warning will come up, choose yes.
 **IMPORTANT** clicking 'X' on the virtual desktop will not shut it down, it will still charge you. To fully shut it down, go back to the Google Cloud website and choose 'Stop' from the 3 dots dropdown menu and wait for it to show the grey stop button.
 
-To go to the manager site type in: https://IPADDRESS:6443/arcgis/manager/, replacing IDADDRESS with the new randomly generated IP address from the 'External IP' section of the GCP.
-
-Log in with siteadmin and the password from the checklist Week 7/8 GEOM99 checklist.
+1. To go to the manager site type in: https://IPADDRESS:6443/arcgis/manager/, replacing IDADDRESS with the new randomly generated IP address from the 'External IP' section of the GCP.
+  1. Log in with siteadmin and the password from the checklist Week 7/8 GEOM99 checklist.
 
 ## Using AGOL and ArcGIS Server on GCP together
 
