@@ -1,7 +1,8 @@
-**Laura Cobham GEOM99 Technical Log**
+**Laura Cobham GEOM99 Technical Log** (For start/end times, time spent, resources and next steps, see the Excel time log. This file is the outcomes)
 
-**ArcGIS Server on GCP**//
-2024/03/06 11pm start, 12am end (1 hour spent)
+**ArcGIS Server on GCP**
+
+2024/03/06
 During this session I watched and recreated Shawn's video from this link: https://youtu.be/dyFeyBX9jIY, creating my own GCP server
 
 First go to the Google CLoud website at: console.cloud.google.com and naviagte to Compute Engine - VM instances from the top left.
@@ -20,8 +21,8 @@ A certificate warning will come up, choose yes.
 To go to the manager site type in: https://IPADDRESS:6443/arcgis/manager/, replacing IDADDRESS with the new randomly generated IP address from the 'External IP' section of the GCP.
 Log in with siteadmin and the password from the checklist Week 7/8 GEOM99 checklist.
 
-**Using AGOL and ArcGIS Server on GCP together**//
-2024/03/10 8:30pm start, ___ end (total)
+**Using AGOL and ArcGIS Server on GCP together**
+2024/03/10
 During this session I relaunched the GCP that I created last time and used it to publish the items inside onto ArcGIS Online using multiple methods.
 
 To relaunch the GCP server, go to the Google Cloud website (https://console.cloud.google.com), go to the top left and click Compute Engine - VM instances.
