@@ -26,7 +26,7 @@ Log in with siteadmin and the password from the checklist Week 7/8 GEOM99 checkl
 
 2024/03/10
 
-During this session I relaunched the GCP that I created last time and used it to publish the items inside onto ArcGIS Online using multiple methods.
+During this session I relaunched the GCP that I created last time and used it to publish the items inside onto ArcGIS Online using multiple methods. I also created this technical log up to the end of this step.
 
 To relaunch the GCP server, go to the Google Cloud website (https://console.cloud.google.com), go to the top left and click Compute Engine - VM instances.
 Then press the 3 dots next to your server and select resume/play on the server you want to resume.
