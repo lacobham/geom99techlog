@@ -59,3 +59,23 @@ After recreating those steps:
 -To add items from the Server as a feature layer choose add URL and add: https://*IPADDRESS/arcgis/rest/services/SampleWorldCities/MapServer/0 (*insert new IP that is generated each time GCP is turned on)
 
 -To add items from the Server as a map image layer (ie a picture of the data) choose URL and add: https://*IPADDRESS/arcgis/rest/services/SampleWorldCities/MapServer (*insert new IP that is generated each time GCP is turned on)
+
+**Publish Canada service to your own GCP VM**
+
+To publish the Canada map onto the server from the VM, I first copied the data from the zip folder on the desktop to the gisworkspace folder on the C drive.
+
+Then open ArcGIS Pro on the local computer and add a new ArcGIS server connection.
+
+Click yes when warned about the certificate.
+
+For the server URL enter https://IPADDRESS:6443/arcgis (IPADDRESS regenerates every time on Google Cloud website - External IP)
+
+Username: siteadmin
+
+Password: In the Week 7/8 checklist
+
+Then, create a new folder on local laptop with same canada data in the same location as it was on the VM.
+
+Then naviagte to the server connection and choose publish, then publish as map service.
+
+Analyze and fix any errors (assign unique numeric IDs, register data source), then publish.
