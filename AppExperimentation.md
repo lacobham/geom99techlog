@@ -55,7 +55,11 @@
 ~
 
 Notes from Experience Builder tutorial (https://www.youtube.com/watch?v=zQMBhtQOwwY):
+
 -Can insert URLs from Enterprise services
+
 -Can insert multiple seb map at once
+
 -Using dynamic attributes instead of manually changing each name/image is easier
-Triggers can make it zoom into specific features when clicked
+
+-Triggers can make it zoom into specific features when clicked
