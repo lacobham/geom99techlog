@@ -58,7 +58,7 @@ Notes from Experience Builder tutorial (https://www.youtube.com/watch?v=zQMBhtQO
 
 -Can insert URLs from Enterprise services
 
--Can insert multiple seb map at once
+-Can insert multiple web maps at once
 
 -Using dynamic attributes instead of manually changing each name/image is easier
 
