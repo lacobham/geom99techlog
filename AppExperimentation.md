@@ -65,3 +65,11 @@ Notes from Experience Builder tutorial (https://www.youtube.com/watch?v=zQMBhtQO
 -Using dynamic attributes instead of manually changing each name/image is easier
 
 -Triggers can make it zoom into specific features when clicked
+
+Notes from video on making Experience Builder responsive (https://www.youtube.com/watch?v=lQcPleRqir0&list=PLGZUzt4E4O2L7N_0Wxkz8KLQhF-54kpFF&index=3):
+
+- You can change between modes for different devices (mobile, tablet, desktop)
+
+- The page will resize all the content to the device size and you can reconfigure (when you choose the 'custom' option, vs auto)
+
+- Docked panels vs floating panels (similar to StoryMaps sidebar options)
