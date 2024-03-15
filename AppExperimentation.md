@@ -14,8 +14,10 @@
 
 2024/03/12
 
-1. To experiment with Dashboards I
-2. ![Dashboard](https://github.com/lacobham/geom99techlog/assets/146376068/452a0a5a-c775-4963-ac8d-38e2c279f92d)
+1. To experiment with Dashboards I added a web map and multiple widgets including indicators, charts, and tables.
+
+2. ![Dashboard1](https://github.com/lacobham/geom99techlog/assets/146376068/3a4a541e-6811-4aff-b578-ead481ca5166)
+
 
 
    
