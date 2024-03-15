@@ -58,13 +58,13 @@ Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-sta
 
 Notes from Experience Builder tutorial (https://www.youtube.com/watch?v=zQMBhtQOwwY):
 
--Can insert URLs from Enterprise services
+- Can insert URLs from Enterprise services
 
--Can insert multiple web maps at once
+- Can insert multiple web maps at once
 
--Using dynamic attributes instead of manually changing each name/image is easier
+- Using dynamic attributes instead of manually changing each name/image is easier
 
--Triggers can make it zoom into specific features when clicked
+- Triggers can make it zoom into specific features when clicked
 
 Notes from video on making Experience Builder responsive (https://www.youtube.com/watch?v=lQcPleRqir0&list=PLGZUzt4E4O2L7N_0Wxkz8KLQhF-54kpFF&index=3):
 
