@@ -53,7 +53,7 @@
 1. Just from these sources it seems like its a super fast and easy way for someone to run a suitability analysis that may not be a GIS expert. You are able to change the weights and run the analysis over and over again, where it would take much longer in ArcGIS Pro. This likely would not be used for us to the analysis but could be something we look into for the client to quickly change criteria and rerun analysis on new areas.
 
 1. Notes from Experience Builder tutorial (https://www.youtube.com/watch?v=zQMBhtQOwwY):
-1. 1. Can insert URLs from Enterprise services
-1. 2. Can insert multiple seb map at once
-1. 3. Using dynamic attributes instead of manually changing each name/image is easier
-1. 4. Triggers can make it zoom into specific features when clicked
+2. Can insert URLs from Enterprise services
+3. Can insert multiple seb map at once
+4. Using dynamic attributes instead of manually changing each name/image is easier
+5. Triggers can make it zoom into specific features when clicked
