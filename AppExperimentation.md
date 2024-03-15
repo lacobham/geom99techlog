@@ -1,6 +1,17 @@
 # Laura Cobham GEOM99 Technical Log 
 (For start/end times, time spent, resources and next steps, see the Excel time log. This file is the outcomes)
 
+## ArcGIS StoryMaps
+
+2024/03/09
+
+1. In StoryMaps I experimented with making custom themes to personalize your StoryMap. I made a theme called 'Sand' and customized the colours, font, basemap, and dividers so that the theme fit together.
+2. For the rest of my time I played around with elements like timelines, image galleries, embedding external maps, and the different types of map tours. If we were to make a StoryMap, these are all functions that would be good and easy to use.
+
+![sand](https://github.com/lacobham/geom99techlog/assets/146376068/26ef84de-988f-482b-8745-9ac79819b01d)
+
+![waves](https://github.com/lacobham/geom99techlog/assets/146376068/8180a2d8-adbf-44f5-bf05-a32ced775458)
+
 ## ArcGIS Field Maps
 
 2024/03/12
