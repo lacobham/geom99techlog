@@ -5,10 +5,10 @@
 
 2024/03/12
 
-1. 1. To experiment with the Field Maps mobile app I created a new point feature layer on AGOL and put that layer in a web map
-2. NOTE: I learned that you can create a point layer in the Field Maps Designer instead of in the AGOL item page, letting you customize other aspects too. You can also configure a form similar to Survey123 (can add different fields the user can fill with information).
-1. I added a variety of points, some with photos and some without (most by moving the point from my actual location)
-2. NOTE: I learned that if you manually move the points most metadata will not autofill (e.g. elevation because the app can't guess the elevation at that point. Maybe try finding out if you can stop the user from doing this if that info is important?
+1. To experiment with the Field Maps mobile app I created a new point feature layer on AGOL and put that layer in a web map
+1. 1. NOTE: I learned that you can create a point layer in the Field Maps Designer instead of in the AGOL item page, letting you customize other aspects too. You can also configure a form similar to Survey123 (can add different fields the user can fill with information).
+2. I added a variety of points, some with photos and some without (most by moving the point from my actual location)
+2. 2. NOTE: I learned that if you manually move the points most metadata will not autofill (e.g. elevation because the app can't guess the elevation at that point. Maybe try finding out if you can stop the user from doing this if that info is important?
 
 ## ArcGIS Dashboards
 
