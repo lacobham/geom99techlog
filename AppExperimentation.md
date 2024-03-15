@@ -14,9 +14,11 @@
 
 2024/03/12
 
-1. To experiment with Dashboards I added a web map and multiple widgets including indicators, charts, and tables.
-
+1. To experiment with Dashboards I added a web map and chart, then added more widgets like gauges, embedding web pages, and rich text.
 2. ![Dashboard1](https://github.com/lacobham/geom99techlog/assets/146376068/3a4a541e-6811-4aff-b578-ead481ca5166)
+3. I then added red light camera data from the Toronto Open Data Portal and tried to make a more polished dashboard with more relevant information all around.
+4. ![FinalDash](https://github.com/lacobham/geom99techlog/assets/146376068/1a0947b9-58f1-4953-bd67-4845525ae068)
+
 
 
 
