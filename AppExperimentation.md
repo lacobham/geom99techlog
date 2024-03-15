@@ -26,7 +26,7 @@
 2024/03/12
 
 1. I experimented with Experience Builder by mostly recreating my previous Dashboard in a different environment. I tried out using charts, buttons, the basemap gallery, and images.
-2. ![ExpBuild](https://github.com/lacobham/geom99techlog/assets/146376068/1e37518b-5572-4b76-8c7c-6a8643c53575)
-3. ![FinalExpBuilder](https://github.com/lacobham/geom99techlog/assets/146376068/9f92e088-c9f1-47d2-90b6-93edbe5dbdd4)
+![ExpBuild](https://github.com/lacobham/geom99techlog/assets/146376068/1e37518b-5572-4b76-8c7c-6a8643c53575)
+![FinalExpBuilder](https://github.com/lacobham/geom99techlog/assets/146376068/9f92e088-c9f1-47d2-90b6-93edbe5dbdd4)
 1. I also read this link to try and understand the suitability modeler in Experience Builder to see if its something we could use in our collab project: https://doc.arcgis.com/en/web-appbuilder/latest/create-apps/widget-suitability-modeler.htm. I watched this video on the same topic: https://www.youtube.com/watch?v=Ha1H8LtkLX0.
 1. Just from these sources it seems like its a super fast and easy way for someone to run a suitability analysis that may not be a GIS expert. You are able to change the weights and run the analysis over and over again, where it would take much longer in ArcGIS Pro. This likely would not be used for us to the analysis but could be something we look into for the client to quickly change criteria and rerun analysis on new areas.
