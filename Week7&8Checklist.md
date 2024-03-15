@@ -8,7 +8,7 @@ Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-sta
 2024/03/06
 
 During this session I watched and recreated Shawn's video from this link: https://youtu.be/dyFeyBX9jIY, creating my own GCP server
-1. First go to the Google CLoud website at: console.cloud.google.com and naviagte to Compute Engine - VM instances from the top left.
+1. First go to the Google Cloud website at: console.cloud.google.com and naviagte to Compute Engine - VM instances from the top left.
 1. Create Instance, name it (eg arcgisserver), and go to the 'Boot disk' section. Click 'Change' and change the 'source project for image' in 'custom images' to the current project, click select.
 1. Allow 'HTTP traffic' and 'HTTPS traffic' and choose 'create'.
 1. Go to 'set up firewall rules' and name the rule (eg flemingrdp444).
