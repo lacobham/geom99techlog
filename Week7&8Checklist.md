@@ -52,3 +52,5 @@ During this session, I published the Canada map data on the server from the VM.
 1. Then, create a new folder on local laptop with same canada data in the same location as it was on the VM.
 1. Then naviagte to the server connection and choose publish, then publish as map service.
 1. Analyze and fix any errors (assign unique numeric IDs, register data source), then publish.
+
+2. Refer to Shawn's video on this for more: https://www.youtube.com/watch?v=nIRlZN9ECwY&t=776s.
