@@ -15,9 +15,9 @@
 2024/03/12
 
 1. To experiment with Dashboards I added a web map and chart, then added more widgets like indicators, gauges, embedding web pages, and rich text. I added the turtle icon from https://www.svgviewer.dev/s/364802/turtle.
-2. ![turtles](https://github.com/lacobham/geom99techlog/assets/146376068/25fabca7-0dd2-46b6-be58-9cdc8f68e7fa)
+![turtles](https://github.com/lacobham/geom99techlog/assets/146376068/25fabca7-0dd2-46b6-be58-9cdc8f68e7fa)
 3. I then added red light camera data from the Toronto Open Data Portal and tried to make a more polished dashboard with different widgets.
-4. ![FinalDash](https://github.com/lacobham/geom99techlog/assets/146376068/1a0947b9-58f1-4953-bd67-4845525ae068)
+![FinalDash](https://github.com/lacobham/geom99techlog/assets/146376068/1a0947b9-58f1-4953-bd67-4845525ae068)
 
 5. Overall, I think that so far the relevant widgets to our problem statement would be indicators, charts, and rich text. Gauges do not seem to be something relevant for our purposes.
    
