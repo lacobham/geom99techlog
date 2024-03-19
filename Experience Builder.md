@@ -9,6 +9,7 @@ Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-sta
 
 1. I used layers from GEOM109 to attempt a suitability analysis using suitability modeler in Experience Builder. To get the raster layers into AGOL I used the manage tile cache, export tile cache, and share package tools. I used this video as a reference: https://www.youtube.com/watch?v=bQmOpcJrf0c
 2. I put all 5 layers (landcover/wolf density/slope/road distance/campsites and trail distance) into a web map hoping that this would then connect to the suitability modeler widget in Experience Builder.
+
 ![Capture](https://github.com/lacobham/geom99techlog/assets/146376068/1e825720-d9dc-422c-9118-a65d9c493a18)
 
 ![Capture3](https://github.com/lacobham/geom99techlog/assets/146376068/8fe1ed22-4bb1-4655-ab72-a760eec83d61)
