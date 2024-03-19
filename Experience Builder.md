@@ -15,6 +15,7 @@ Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-sta
 
 1.I then realized that this is not the way that the layers go into the suitability modeler, but instead they have to be published on ArcGIS Server as an image service based on the documentation that I looked into:
 https://pro.arcgis.com/en/pro-app/3.1/help/sharing/overview/publish-an-image-service.htm
+
 https://doc.arcgis.com/en/geoplanner/latest/documentation/publish-your-data-as-a-weighted-overlay-service-portal-.htm
 2. ![Capture 2](https://github.com/lacobham/geom99techlog/assets/146376068/17110ec4-f4ff-4b7d-91d1-5a3a155afd5e)
 
