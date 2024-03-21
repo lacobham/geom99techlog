@@ -67,9 +67,9 @@ map.on('click', onMapClick);
     var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-      }).addTo(map);
+      }).addTo(map2);
 
-    L.geoJson(statesData).addTo(map);
+    L.geoJson(statesData).addTo(map2);
     function getColor(d) {
       return d > 1000 ? '#800026' :
              d > 500  ? '#BD0026' :
@@ -87,6 +87,6 @@ map.on('click', onMapClick);
           color: 'white',
           dashArray: '3',
           fillOpacity: 0.7};}
-    L.geoJson(statesData, {style: style}).addTo(map);
+    L.geoJson(statesData, {style: style}).addTo(map2);
 </script>
 </html>
