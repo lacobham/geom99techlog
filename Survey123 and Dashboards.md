@@ -21,5 +21,5 @@ Link to dashboard: https://fleming.maps.arcgis.com/apps/dashboards/fa63ba0c4aa14
 
 ![image](https://github.com/lacobham/geom99techlog/assets/146376068/ffeb39ae-f84e-4128-b09b-736c2bfec754)
 
-3. In this dashboard, I learned that you can embed the survey so anyone can fill out the form and refresh the page to see the map update or to fill it out again. The charts and indicator also update.
+3. In this dashboard, I learned that you can embed the survey so anyone can fill out the form and refresh the page to see the map update or to fill it out again. The charts and indicator also update. Also, that if someone logs that they saw multiple turtles at one time, you need to make sure you select 'sum' instead of 'count' so that it won't simply count the amount of people who filled out the survey.
 4. I also learned that you can use an SVG as the symbol on a web map, so instead of having a legend for the map the indicator basically serves as one.
