@@ -41,5 +41,14 @@
         .setContent("I am a standalone popup.")
         .openOn(map);
   </script>
+  <!--Controlling events (when the user does something) -->
+<script>
+    function onMapClick(e) {
+    alert("You clicked the map at " + e.latlng);
+    }
+    map.on('click', onMapClick);
+    
+</script>
+
   <foot></foot>
 </html>
