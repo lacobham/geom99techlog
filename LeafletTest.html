@@ -67,7 +67,7 @@ map.on('click', onMapClick);
 	const tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
 		maxZoom: 19,
 		attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-	}).addTo(map2);
+	}).addTo(map);
 
 	// get color depending on population density value
 	function getColor(d) {
@@ -94,6 +94,6 @@ map.on('click', onMapClick);
 	/* global statesData */
 	const geojson = L.geoJson(statesData, {
 		style,
-	}).addTo(map2);
+	}).addTo(map);
 </script>
 </html>
