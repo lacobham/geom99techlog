@@ -17,7 +17,6 @@
     </head>
 
   <div id="map"></div>
-  <div id="map2"></div>
   <!-- 1st example, intro to leaflet -->
   <!-- Adding tile layer, marker/circle/polygon/popup -->
   <script>
@@ -60,6 +59,7 @@ map.on('click', onMapClick);
 <br>
 <br>
 <br>
+<div id='map2'></div>
   <!-- 2nd example, interactive choropleth map -->
 <script>
     var map = L.map('map2').setView([37.8, -96], 4);
@@ -67,9 +67,9 @@ map.on('click', onMapClick);
     var tiles = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 19,
       attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
-      }).addTo(map2);
+      }).addTo(map);
 
-    L.geoJson(statesData).addTo(map2);
+    L.geoJson(statesData).addTo(map);
     function getColor(d) {
       return d > 1000 ? '#800026' :
              d > 500  ? '#BD0026' :
@@ -87,6 +87,6 @@ map.on('click', onMapClick);
           color: 'white',
           dashArray: '3',
           fillOpacity: 0.7};}
-    L.geoJson(statesData, {style: style}).addTo(map2);
+    L.geoJson(statesData, {style: style}).addTo(map);
 </script>
 </html>
