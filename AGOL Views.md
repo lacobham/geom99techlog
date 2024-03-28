@@ -13,8 +13,7 @@ Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-sta
 
 - I excluded irrelevant or confidential fields (email address, creator, creation date, editor, edit date)
 ![View2](https://github.com/lacobham/geom99techlog/assets/146376068/ea4b49b4-883d-4f51-a853-b7fcaf642508)
-
--I also drew a polygon around Ontario to limit the points to a smaller study area.
 ![View 3](https://github.com/lacobham/geom99techlog/assets/146376068/5e9a2f2d-d442-47f0-bb9f-41425a145d85)
 
+- I also drew a polygon around Ontario to limit the points to a smaller study area.
 ![View4](https://github.com/lacobham/geom99techlog/assets/146376068/ad42cb26-cd5d-4180-aa2f-9c135c457aaf)
