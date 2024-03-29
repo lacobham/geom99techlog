@@ -11,7 +11,7 @@ Formatting: https://docs.github.com/en/get-started/writing-on-github/getting-sta
 
 My Dashboard: https://fleming.maps.arcgis.com/apps/dashboards/0d18f4c6b3fc4a28aa1cddb7ddca2e9e
 
-![Uploading FInal.PNG…]()
+![FInal](https://github.com/lacobham/geom99techlog/assets/146376068/6640b9de-d142-4f49-91e6-64658437a051)
 
 - I first made a survey that would be embedded in the Dashboard
 - The survey: https://survey123.arcgis.com/share/dc862566a7304900bb0dbff219d93f1f?portalUrl=https://Fleming.maps.arcgis.com
