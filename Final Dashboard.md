@@ -14,7 +14,8 @@ My Dashboard: https://fleming.maps.arcgis.com/apps/dashboards/0d18f4c6b3fc4a28aa
 ![FInal](https://github.com/lacobham/geom99techlog/assets/146376068/6640b9de-d142-4f49-91e6-64658437a051)
 
 - I first made a survey that would be embedded in the Dashboard
-- The survey: https://survey123.arcgis.com/share/dc862566a7304900bb0dbff219d93f1f?portalUrl=https://Fleming.maps.arcgis.com
+
+The survey: https://survey123.arcgis.com/share/dc862566a7304900bb0dbff219d93f1f?portalUrl=https://Fleming.maps.arcgis.com
 
 - I used what I learned aabout layer views to limit the study area to Ontario and hide fields, and I used what I learned about Dashboard widgets to add indicators, a chart, gauges, and embedded content (the survey).
 
