@@ -17,7 +17,7 @@ My Dashboard: https://fleming.maps.arcgis.com/apps/dashboards/0d18f4c6b3fc4a28aa
 
 The survey: https://survey123.arcgis.com/share/dc862566a7304900bb0dbff219d93f1f?portalUrl=https://Fleming.maps.arcgis.com
 
-- I used what I learned aabout layer views to limit the study area to Ontario and hide fields, and I used what I learned about Dashboard widgets to add indicators, a chart, gauges, and embedded content (the survey).
+- I used what I learned about layer views to limit the study area to Ontario and hide fields, and I used what I learned about Dashboard widgets to add indicators, a chart, gauges, and embedded content (the survey).
 
 - I learned that when making a gauge you can set different colours based on different threshold values, so I set these values to change when the average health value went up.
 
